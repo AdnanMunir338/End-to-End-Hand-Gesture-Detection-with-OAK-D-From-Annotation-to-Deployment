@@ -30,7 +30,7 @@ PyTorch weights (best.pt) converted to OpenVINO-compatible .blob format by uing 
 
 Clone the repository:
 ```bash
-git clone [<repository_url>](https://github.com/AdnanMunir338/End-to-End-Hand-Gesture-Detection-with-OAK-D-From-Annotation-to-Deployment.git)
+git clone https://github.com/AdnanMunir338/End-to-End-Hand-Gesture-Detection-with-OAK-D-From-Annotation-to-Deployment.git
 cd End-to-End-Hand_Gesture-Detection-with-OAK-D-From-Annotation-to-Deployment
 
 
