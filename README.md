@@ -14,7 +14,7 @@ Data annotation and preprocessing performed via Roboflow.
 
 # Model Training
 
-YOLOv11n trained using PyTorch and the coding file name is **OD_Yolov8.ipynb**.
+YOLOv11n trained using PyTorch and the coding file name is **OD_Yolov11.ipynb**.
 
 # Model Conversion
 
