@@ -39,16 +39,18 @@ install dependencies:
 pip install -r Installed_package-list.txt
 ```
 # Results
+| Metric           | Value   |
+|------------------|---------|
+| mAP@0.5          | 89.7 %|
+| Precision        |  78.1 % |
+| Recall           |  84.3 %|
+| FPS (OAK-D)      | 11     |
+
 ![image](https://github.com/user-attachments/assets/57dbf46d-f7e9-4d47-bfcb-ddb8bf51c23d)
 
 ![image](https://github.com/user-attachments/assets/2cece457-f29c-436c-990c-fa7edc29aaa4)
 
 
-| Metric           | Value   |
-|------------------|---------|
-| mAP@0.5          | XX.XX%  |
-| Precision        | XX.XX%  |
-| Recall           | XX.XX%  |
-| FPS (OAK-D)      | XX      |
+
 
 
