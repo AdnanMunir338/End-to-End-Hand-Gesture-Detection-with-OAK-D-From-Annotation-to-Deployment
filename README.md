@@ -32,10 +32,23 @@ Clone the repository:
 ```bash
 git clone https://github.com/AdnanMunir338/End-to-End-Hand-Gesture-Detection-with-OAK-D-From-Annotation-to-Deployment.git
 cd End-to-End-Hand_Gesture-Detection-with-OAK-D-From-Annotation-to-Deployment
-
+```
 
 install dependencies:
 ```bash
 pip install -r Installed_package-list.txt
+```
+# Results
+![image](https://github.com/user-attachments/assets/57dbf46d-f7e9-4d47-bfcb-ddb8bf51c23d)
 
-# Deployment
+![image](https://github.com/user-attachments/assets/2cece457-f29c-436c-990c-fa7edc29aaa4)
+
+
+| Metric           | Value   |
+|------------------|---------|
+| mAP@0.5          | XX.XX%  |
+| Precision        | XX.XX%  |
+| Recall           | XX.XX%  |
+| FPS (OAK-D)      | XX      |
+
+
