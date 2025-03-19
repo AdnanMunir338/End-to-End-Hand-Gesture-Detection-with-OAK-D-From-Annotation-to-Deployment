@@ -1,1 +1,1 @@
-# End-to-End-Object-Detection-with-OAK-D-From-Annotation-to-Deployment
+# End-to-End-Hand_Gesture-Detection-with-OAK-D-From-Annotation-to-Deployment
