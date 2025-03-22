@@ -41,7 +41,7 @@ for OAK-D
 pip install -r Installed_package-list.txt
 ```
 ```bash
-for OAK-D
+for Realsense
 
 pip install -r requirements_realsense.txt
 ```
