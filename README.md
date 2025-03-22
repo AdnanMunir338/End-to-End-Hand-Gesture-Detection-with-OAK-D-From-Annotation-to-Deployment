@@ -24,6 +24,8 @@ PyTorch weights (best.pt) converted to OpenVINO-compatible .blob format by uing 
 
 .blob file deployed on OAK-D device for real-time detection and coresponding code is named as **Optimized_yolov11.py** .
 
+.pt (yolov8n weights) file deployed on Realsense device for real-time detection and coresponding code is named as **Realsense_code.py** .
+
 🛠️ Usage
 
 ## 📥 Installation
