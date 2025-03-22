@@ -36,7 +36,14 @@ cd End-to-End-Hand_Gesture-Detection-with-OAK-D-From-Annotation-to-Deployment
 
 install dependencies:
 ```bash
+for OAK-D
+
 pip install -r Installed_package-list.txt
+```
+```bash
+for OAK-D
+
+pip install -r requirements_realsense.txt
 ```
 # Results
 | Metric           | Value   |
